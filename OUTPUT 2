@@ -1,0 +1,110 @@
+
+                 WELCOME TO C-BOOK-KINGS                 
+                   ENTER 1 FOR ADMIN                   
+                   ENTER 2 FOR USER                 
+
+Enter your choice : 2
+1. Sign up 
+2. Sign in 
+
+Enter your choice : 1
+ENTER YOUR NAME : JUNAIDH
+ENTER YOUR PHONE NUMBER : 1234567890
+ENTER YOUR USERNAME : JUNNU
+ENTER YOUR PASSWORD : PASS
+YOUR ID IS 1 
+
+YOUR ACCOUNT HAS BEEN CREATED 
+ENTER YOUR USERNAME : JUNNU
+ENTER YOUR PASSWORD : PASS
+ENTER YOUR ID : 1
+SIGNED IN SUCCESSFULLY 
+
+                    How can I help you 
+              Enter 1 to book movie tickect 
+              Enter 2 to book event tickects 
+              Enter 3 to Exit User 
+
+Enter your choice : 2
+MENU 
+1. FIFA WORLD CUP 
+2. PKL Finals 
+3. IPL Action 
+
+Enter your choice : 1
+Welcome to fifa world cup finals 
+1. Book Ticket 
+2. Overview 
+
+Enter your choice : 2
+Who will win the 2022 world cup !!! 
+Will MBappe Stikes again and get two world cup in a row or Will Messi show who is the real GOAT before he goes 
+
+MENU 
+1. FIFA WORLD CUP 
+2. PKL Finals 
+3. IPL Action 
+
+Enter your choice : 2
+Welcome to PKL finals 
+1. Book Ticket 
+2. Overview 
+
+Enter your choice : 2
+Who will lift the pkl cup season 9 !!! 
+Will the pink panthers roar or Will Fazel Sulthan show who is the sulthan and tackel Panthers 
+
+MENU 
+1. FIFA WORLD CUP 
+2. PKL Finals 
+3. IPL Action 
+
+Enter your choice : 3
+Welcome to IPL Mini action 
+1. Book Ticket 
+2. Overview 
+
+Enter your choice : 2
+Who gonna smack the hammer !!! 
+There is going to be all-rounder fight between tems 
+
+MENU 
+1. FIFA WORLD CUP 
+2. PKL Finals 
+3. IPL Action 
+
+Enter your choice : 1
+Welcome to fifa world cup finals 
+1. Book Ticket 
+2. Overview 
+
+Enter your choice : 1
+Finals : Argentina Vs France 
+Date : 18th December 2022 
+Time : 8:30 IST 
+Venue : Lusail Stadium, QATAR 
+Category A ticket : Rs.48000/- 
+Each ticket grants entry to 1 person. 
+Category B ticket :Rs.16000/- 
+Each ticket grants entry to 1 person. 
+Enter number of Category A and Category B tickets: 2 4
+
+You have to pay : Rs. 160000/-
+
+How you like to proceed transaction 
+ 1. Debit card 
+ 2. Credit card 
+
+Enter your mode of transaction:2
+CREDIT CARD TRANSACTION 
+.......... TRANSACTION........ 
+Enter name as it appears on your card : JUNAIDH
+Enter your card number : 123456789012
+Enter expiry date(month & year) : 10 29
+
+Enter CVV : 123
+YOUR TRANSACTION HAS BEEN DONE SUCCESSFULLY
+YOUR TICKET IS BOOKED
+THANK YOU FOR BOOKING IN C-BOOK-KINGS
+
+
