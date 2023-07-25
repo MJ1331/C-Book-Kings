@@ -1,0 +1,239 @@
+WELCOME TO C-BOOK-KINGS                 
+                   ENTER 1 FOR ADMIN                   
+                   ENTER 2 FOR USER                 
+
+Enter your choice : 1
+Enter your id : a123
+Enter your password : pass
+Incorrect Password 
+Do you want to try again : y
+Enter your password : admin
+
+                    How can I help you 
+              Enter 1 to Edit price of the movie tickect 
+              Enter 2 to View reseved tickects 
+
+Enter your choice : 2
+
+ Reserved Seats :
+A21
+A22
+
+B2
+B3
+B5
+B6
+C12
+C13
+
+D6
+D7
+D8
+D9
+D10
+
+
+                   ENTER 1 FOR ADMIN                   
+                   ENTER 2 FOR USER                 
+
+Enter your choice : 2
+1. Sign up 
+2. Sign in 
+
+Enter your choice : 1
+ENTER YOUR NAME : JUNAIDH
+ENTER YOUR PHONE NUMBER : 1234567890
+ENTER YOUR USERNAME : JUNNU
+ENTER YOUR PASSWORD : PASS
+YOUR ID IS 1 
+
+YOUR ACCOUNT HAS BEEN CREATED 
+ENTER YOUR USERNAME : JUNAIDH
+ENTER YOUR PASSWORD : PASS
+ENTER YOUR ID : 1
+Try Again 
+ENTER YOUR USERNAME : JUNNU
+ENTER YOUR PASSWORD : PASS
+ENTER YOUR ID : 1
+SIGNED IN SUCCESSFULLY 
+
+                    How can I help you 
+              Enter 1 to book movie tickect 
+              Enter 2 to book event tickects 
+              Enter 3 to Exit User 
+
+Enter your choice : 1
+
+MENU 
+1. Now Streaming 
+2. Coming Soon 
+
+Enter your choice : 1
+Now Streaming Movies List 
+1. Avatar: Way of water 
+2. Naai Sekar Returns 
+
+Choose a movie : 1
+Menu 
+1. Book Tickets 
+2. Reviews 
+3. Main Cast 
+
+Enter your choice : 2
+REVIEW 
+78 percent by Rotten Tomatoes 
+ 8/10 by IGN 
+ 8/10 by IMDb 
+Audience Rating : 4.5(21088 rating) 
+
+Now Streaming Movies List 
+1. Avatar: Way of water 
+2. Naai Sekar Returns 
+
+Choose a movie : 3
+Enter 1 or 2 Now Streaming Movies List 
+1. Avatar: Way of water 
+2. Naai Sekar Returns 
+
+Choose a movie : 1
+Menu 
+1. Book Tickets 
+2. Reviews 
+3. Main Cast 
+
+Enter your choice : 3
+MAIN CAST 
+Sam Worthington as Jake Sully 
+Zoe Saldaña as Neytiri 
+Jamie Flatters as Neteyam 
+
+Now Streaming Movies List 
+1. Avatar: Way of water 
+2. Naai Sekar Returns 
+
+Choose a movie : 1
+Menu 
+1. Book Tickets 
+2. Reviews 
+3. Main Cast 
+
+Enter your choice : 1
+Available locations nearby 
+1. Adyar 
+2. OMR 
+3. ECR 
+4. Kelambakkam 
+
+Enter your location:1
+
+The available theatres are : 
+Theatre A is 3km from your location 
+Theatre B is 7km from your location 
+
+Select The Theatre 
+1.Theatre A 
+2.Theatre B 
+
+Choose a theatre for Avatar: Way of water:1
+Show timings for Avatar: Way of water 
+1. Morning Show 
+2. Afternoon Show 
+
+Enter your choice : 2
+WELCOME TO Avatar: Way of water'S AFTERNOON SHOW IN THEATRE A 
+CHOOSE YOUR CONFORTABLE SEAT 
+
+A 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+B 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+C 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+D 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+E 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+F 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+
+G 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+I 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+J 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+K 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+L 1 2 3 4 5      6 7 8 9 10 11 12 13 14 15 16 17 18     19 20 21 22 23
+
+
+SCREEN
+ 
+ Already Reserved Seats :
+A21
+A22
+
+B2
+B3
+B5
+B6
+C12
+C13
+
+D6
+D7
+D8
+D9
+D10
+
+
+Enter the number of seats you want to book: 3
+Enter your seats : 
+F11
+F12
+F13
+
+--SNACKS TIME--
+MENU 
+1. BEVERAGES 
+2. SNACKS 
+3. COMBO 
+4. NO SNACKS 
+
+Enter your choice : 1
+Select your favourite Beverage 
+COKE                  Rs.80-150 
+COLD COFFEE   Rs.200 
+FRESH JUICE     Rs.160 
+
+Enter Your Choice: 1
+ENTER THE SIZE: 
+1-Small     Rs.80/- 
+2-Medium    Rs.100/- 
+3-Large     Rs.150/- 
+
+Enter number of drinks of small/medium/large :  2 1 0
+Do you want to add more snacks (Y/N): y
+--SNACKS TIME--
+MENU 
+1. BEVERAGES 
+2. SNACKS 
+3. COMBO 
+4. NO SNACKS 
+
+Enter your choice: 3
+Enter your favourite combo 
+1. M-POPCORN + L-COKE Rs.250/- 
+2. PUFFS + M-COKE     Rs.150/- 
+
+Enter your choice : 1
+Enter the quantity : 2
+Do you want to add more snacks (Y/N): n
+You should pay : Rs.760.00/-
+
+How you like to proceed the transaction 
+ 1. Debit card 
+ 2. Credit card 
+
+
+Enter your mode of transaction : 1
+DEBIT CARD TRANSACTION 
+.......... TRANSACTION........ 
+Enter name as it appears on your card : JUNAIDH
+Enter your card number : 123456789012
+Enter expiry date(month & year) : 12 27
+
+Enter CVV : 123
+YOUR TRANSACTION HAS BEEN DONE SUCCESSFULLY
+YOUR TICKET IS BOOKED
+THANK YOU FOR BOOKING IN C-BOOK-KINGS
