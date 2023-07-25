@@ -10,7 +10,7 @@ Cinemas help in contributing to our daily memories as they provide an essential 
 The main goal of our project is to provide various types of customer facilities, and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
 
 ## Features
-Booking tickets
+Booking tickets 
 Cancel tickets
 Change ticket price(only admin)
 View all booking records
